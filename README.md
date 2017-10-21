@@ -1,7 +1,7 @@
 # test-repo
 Just a GitHub test
 
-##Smaller heading
+## Smaller heading
 
 Hope this works.
 
@@ -14,4 +14,4 @@ Things to do:
 *move on to second week
 *learn R
 
-###END
+### END
