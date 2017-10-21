@@ -10,8 +10,8 @@ Hope this works.
 Hope this one works as well.
 
 Things to do:
-*get used to this
-*move on to second week
-*learn R
+* get used to this
+* move on to second week
+* learn R
 
 ### END
